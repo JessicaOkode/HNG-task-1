@@ -1,0 +1,16 @@
+body{
+    background-color: #000;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+hr{
+    border: 5px solid #1F497D;
+    border-bottom: none;
+}
+img{
+    width: 40px;
+}
+.we-p{
+    line-height: .5;
+}
